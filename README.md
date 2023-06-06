@@ -1,2 +1,0 @@
-# Prime_Factorization_Calculator
-Prime Factorization Calculator
